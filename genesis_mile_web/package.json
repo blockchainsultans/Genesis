@@ -1,0 +1,26 @@
+{
+  "name": "jio_mile_web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "moment": "^2.20.1",
+    "query-string": "^5.0.1",
+    "react-body-classname": "^1.2.0",
+    "react-date-picker": "^6.5.2",
+    "react-datepicker": "^1.0.0",
+    "react-moment": "^0.6.8",
+    "react-router-dom": "^4.2.2",
+    "web3": "0.19.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
